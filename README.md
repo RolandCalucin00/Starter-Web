@@ -8,3 +8,9 @@ this is simple
 
 ## Deployment
 
+
+##HOw to contribute
+
+##copyright
+
+2014 git training
